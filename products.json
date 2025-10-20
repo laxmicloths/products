@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Leather Wallet",
+    "price": "$25",
+    "image": "https://res.cloudinary.com/demo/image/upload/wallet.jpg",
+    "description": "Handmade premium leather wallet."
+  },
+  {
+    "id": 2,
+    "name": "Canvas Backpack",
+    "price": "$45",
+    "image": "https://res.cloudinary.com/demo/image/upload/backpack.jpg",
+    "description": "Stylish and durable backpack for everyday use."
+  }
+]
