@@ -102,3 +102,29 @@ h1 {
   color: white;
 }
 
+.whatsapp-btn {
+  background-color: #25D366;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin-top: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px; /* space between icon and text */
+  width: 100%;
+  font-size: 14px;
+}
+
+.whatsapp-btn:hover {
+  background-color: #128C7E;
+}
+
+.whatsapp-icon {
+  width: 16px;   /* smaller width */
+  height: 16px;  /* smaller height */
+  flex-shrink: 0;
+}
+
